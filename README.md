@@ -5,7 +5,7 @@
   - Learn the basics of HTML list elements
   - Create unordered and ordered HTML lists
 
-## Introduction
+## Problem Statement
 
 Many HTML tags behave in unique ways. Some apply automatic styling, like `p`
 tags that create margins around text.  Some, like the header tags, increase the
@@ -40,7 +40,7 @@ not any other styling. Using the built in `ul`, `ol` and `li` HTML tags however,
 we can wrap related list content together while also getting some automatic
 styling.
 
-### `<ul>`, `<li>`
+### The `<ul>` and `<li>` Tags
 
 **Remember to use `httpserver` to live test your webpage**
 
@@ -120,7 +120,7 @@ unordered list that lists out the three types of cheese.
 If your first two tests are passing, great! It's time to talk about another type
 of list!
 
-### `<ol>`
+### The `<ol>` tag
 
 <p align="center">
   <img src="https://i.imgflip.com/28mpcx.jpg"/>
