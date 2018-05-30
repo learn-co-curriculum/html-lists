@@ -42,8 +42,6 @@ styling.
 
 ### The `<ul>` and `<li>` Tags
 
-**Remember to use `httpserver` to live test your webpage**
-
 In HTML, we create lists using the `<ul>` tag, which stands for _unordered
 list_, along with the `<li>` tag for each _list item_.
 
